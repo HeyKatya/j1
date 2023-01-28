@@ -1,0 +1,1 @@
+SELECT rfam_acc FROM family limit 1;
